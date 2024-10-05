@@ -6,8 +6,8 @@
  */#E25DD4#E25DD4#E25DD4#E25DD4#E25DD4#E25DD4#E25DD4#E25DD4#E25DD4#E25DD4#E25DD4#E25DD4
 :root {
 	--blue: #007bff;
-	--indigo: #6610f2;
-	--purple: #6f42c1;
+	--indigo: #e83e8c;
+	--purple: #e83e8c;
 	--pink: #e83e8c;
 	--red: #dc3545;
 	--orange: #fd7e14;
@@ -16,16 +16,16 @@
 	--teal: #20c997;
 	--cyan: #17a2b8;
 	--white: #fff;
-	--gray: #6c757d;
-	--gray-dark: #343a40;
+	--gray: #fbd5e7;
+	--gray-dark: #fbd5e7;
 	--breakpoint-xs: 0;
 	--breakpoint-sm: 576px;
 	--breakpoint-md: 768px;
 	--breakpoint-lg: 992px;
 	--breakpoint-xl: 1200px;
 	--breakpoint-xxl: 1600px;
-	--font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-	--font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	--font-family-sans-serif: -apple-system, "system-ui", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	--font-family-monospace: -apple-system, "system-ui", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
 *,

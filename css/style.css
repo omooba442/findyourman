@@ -2025,7 +2025,7 @@ p + .list-marked {
 
 .lg-1-item-icon:before {
 	text-transform: uppercase;
-	background: linear-gradient(280.29deg, #531FD5 0%, #9B59D8 48.89%, #E495DC 98.62%);
+	background: linear-gradient(280.29deg, #531FD5 0%, #e25dd4 48.89%, #E495DC 98.62%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	z-index: 2;
@@ -2687,12 +2687,12 @@ hr {
 
 .button-primary:hover, .button-primary:active {
 	color: #ffffff;
-	background-color: #9B59D8;
-	border-color: #9B59D8;
+	background-color: #e25dd4;
+	border-color: #e25dd4;
 }
 
 .button-primary.button-ujarak::before {
-	background: #9B59D8;
+	background: #e25dd4;
 }
 
 .button-light {
@@ -2707,12 +2707,12 @@ hr {
 
 .button-light:hover, .button-light:active {
 	color: #ffffff;
-	background-color: #9B59D8;
-	border-color: #9B59D8;
+	background-color: #e25dd4;
+	border-color: #e25dd4;
 }
 
 .button-light.button-ujarak::before {
-	background: #9B59D8;
+	background: #e25dd4;
 }
 
 .button-style-1, .button-style-1:focus {
@@ -9838,7 +9838,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-tertiary {
-	background-color: #9B59D8;
+	background-color: #e25dd4;
 }
 
 .bg-tertiary:not([style*="background-"]) + .bg-tertiary:not([style*="background-"]) {
@@ -9891,7 +9891,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-grad-1 {
-	background: linear-gradient(307.23deg, #531FD5 0%, #9B59D8 48.89%, #E495DC 98.62%);
+	background: linear-gradient(307.23deg, #531FD5 0%, #e25dd4 48.89%, #E495DC 98.62%);
 }
 
 .bg-img-5 {
@@ -10711,7 +10711,7 @@ html:not(.lt-ie10) .not-animated {
 
 .ui-to-top:hover {
 	color: #ffffff;
-	background: #9B59D8;
+	background: #e25dd4;
 	text-decoration: none;
 }
 
@@ -10798,7 +10798,7 @@ html.tablet .ui-to-top {
 	height: 32px;
 	line-height: 32px;
 	cursor: pointer;
-	color: #555;
+	
 	position: relative;
 	display: flex;
 	background-color: transparent;
