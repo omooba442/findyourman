@@ -53,23 +53,23 @@
                     <!-- RD Navbar Toggle-->
                     <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                     <!-- RD Navbar Brand-->
-                    <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png"></a>
+                    <div class="rd-navbar-brand"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png"></a>
                     </div>
                   </div>
                   <div class="rd-navbar-nav-wrap">
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+                      <li class="rd-nav-item active "><a class="rd-nav-link" href="index.php">Home</a>
                       </li>
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="about.html">About Us</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="about.php">About Us</a>
                       </li>
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.html">FAQs</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.php">FAQs</a>
                       </li>
                       
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/register">Register</a>
                         <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/blog">Blog</a>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.html">privacy Policy</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.php">privacy Policy</a>
                         <!-- RD Navbar Dropdown-->
                         
                       </li>
@@ -89,8 +89,8 @@
             <div class="jumbotron-2-content-inner">
               <div class="row justify-content-start">
                 <div class="col-xl-5">
-                  <h1 class="text-white">New Places, Unforgettable Dating.</h1>
-                  <p class="text-white-8 text-m intro-subtitle ls-ng-1">Still looking for your significant other? findyourman is the place for you! Join us now to meet single men and women across the world.</p>
+                  <h1 class="text-white">Welcome To Findyourman.</h1>
+                  <p class="text-white-8 text-m intro-subtitle ls-ng-1">At Find Your Man, we believe that love knows no boundaries. Our platform is designed specifically for women seeking meaningful connections with men, regardless of gender, location, religion, or relationship goals.</p>
                   <a class="button button-icon button-icon-left button-primary" href="https://findyourman.org/auth/friends">
                     <span class="icon mdi mdi-magnify"></span>Find Your Man
                   </a>
@@ -178,8 +178,8 @@
           </div>
           <div class="divider-3"></div>
           <div class="container mt-30 mt-md-45 mt-xxl-75 text-center">
-            <h2 class="wow fadeIn">Only True People</h2>
-            <p class="text-gray-700 wow fadeIn" data-wow-delay=".025s"><span style="max-width: 850px;">Every user registered on findyourman is verified via photo and mobile phone so you don’t have to worry how real or fake anyone is.</span></p>
+            <h2 class="wow fadeIn">Our mission</h2>
+            <p class="text-gray-700 wow fadeIn" data-wow-delay=".025s"><span style="max-width: 850px;">Our mission is simple: to empower women to take control of their dating lives and find the partners they truly desire. We understand that every individual has unique preferences and needs when it comes to love and companionship. That's why we’ve created a space where women can express themselves freely and connect with men who align with their values and aspirations.</span></p>
             <div class="row row-30 row-xl-50 mt-md-45 mt-xxl-70">
               <div class="col-sm-6 col-lg-4">
                 <!-- Tour 3-->
@@ -276,22 +276,22 @@
                 <article class="lg-1-item wow fadeIn">
                   <div class="icon lg-1-item-icon mdi mdi-account-search"></div>
                   <div class="lg-1-item-main">
-                    <h3 class="lg-1-item-title font-weight-normal"><span class="lg-1-item-counter"></span>Simple to Use</h3>
-                    <p>findyourman is very easy to use - just choose your and your partner’s gender, age, and location, and you’re all set!</p>
+                    <h3 class="lg-1-item-title font-weight-normal"><span class="lg-1-item-counter"></span>Tailored Matching</h3>
+                    <p>Our advanced algorithms consider various factors such as location, interests, relationship goals, and more to provide you with personalized matches that resonate with your desires.</p>
                   </div>
                 </article>
                 <article class="lg-1-item wow fadeIn" data-wow-delay=".025s">
                   <div class="icon lg-1-item-icon mdi material-design-compass106"></div>
                   <div class="lg-1-item-main">
-                    <h3 class="lg-1-item-title font-weight-normal"><span class="lg-1-item-counter"></span>Smart Matching</h3>
-                    <p>Our matching system is based on geolocation and interests. It helps you find the best people to meet or spend time with.</p>
+                    <h3 class="lg-1-item-title font-weight-normal"><span class="lg-1-item-counter"></span>Inclusivity</h3>
+                    <p> We celebrate diversity and welcome women of all backgrounds, beliefs, and orientations. Our platform is designed to create an inclusive community where everyone can find love.</p>
                   </div>
                 </article>
                 <article class="lg-1-item wow fadeIn" data-wow-delay=".05s">
                   <div class="icon lg-1-item-icon mdi mdi-comment-processing"></div>
                   <div class="lg-1-item-main">
-                    <h3 class="lg-1-item-title font-weight-normal"><span class="lg-1-item-counter"></span>Cool Community</h3>
-                    <p>Besides being #1 dating service, we have a supportive and understanding community that’s always ready to help.</p>
+                    <h3 class="lg-1-item-title font-weight-normal"><span class="lg-1-item-counter"></span>Safety And Privacy</h3>
+                    <p>Your safety is our top priority. We implement strict security measures to protect your personal information and ensure a safe online environment for all users.</p>
                   </div>
                 </article>
               </div>
@@ -375,8 +375,8 @@
         <div class="container">
           <div class="row justify-content-lg-end justify-content-center">
             <div class="col-md-8 col-lg-5 d-flex flex-column justify-content-center wow fadeInRight">
-              <h2>Premium Membership</h2>
-              <p class="text-white-7">Enjoy the benefits of our dating service’s membership! Use the psychological matching to find the best people and experience other great bonuses.</p>
+              <h2>Who We Are</h2>
+              <p class="text-white-7">Find Your Man was founded by a group of passionate individuals who recognized the need for a dating platform tailored specifically for women. Our diverse team comprises dating experts, relationship coaches, and tech enthusiasts who have come together to create a safe, supportive, and user-friendly environment for our members.</p>
               <div class="unit cta-unit unit-spacing-md flex-column flex-sm-row align-items-center offset-xl-t-40">
                 <div class="unit-left"><a class="button button-md button-light" href="#">Find Matches</a></div>
                 <div class="unit-body"><span class="text-white-7">Free Forever</span></div>
@@ -385,55 +385,7 @@
           </div>
         </div>
       </section>
-      <!-- Latest News-->
-      <section class="section section-lg bg-default">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <h2 class="text-center wow fadeIn">Dating Tips & Advice</h2>
-              <p class="offset-top-5 block-md text-center text-gray-800 wow fadeIn" data-wow-delay=".025s">Here are some of our latest dating articles written by our staff. We hope these tips will help you get more confident and find what you are looking for on GO.</p>
-            </div>
-          </div>
-          <div class="row row-30">
-            <div class="col-sm-6 col-lg-3 wow fadeIn">
-              <!-- Post Creative-->
-              <article class="post-creative"><a class="post-creative-image" href="https://findyourman.org/auth/blog" style="background-image: url(images/home-2-8.jpg);"></a>
-                <div class="post-creative-main">
-                  <p class="post-creative-title"><a href="https://findyourman.org/auth/blog">5 Reasons You’re Still Lonely Even Though You Use Dating Apps</a></p>
-                  <time class="post-creative-time" datetime="2019">April 24, 2019</time>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-3 wow fadeIn" data-wow-delay=".025s">
-              <!-- Post Creative-->
-              <article class="post-creative"><a class="post-creative-image" href="https://findyourman.org/auth/blog" style="background-image: url(images/home-2-9.jpg);"></a>
-                <div class="post-creative-main">
-                  <p class="post-creative-title"><a href="https://findyourman.org/auth/blog">Can You Text Your Way into a Successful Relationship?</a></p>
-                  <time class="post-creative-time" datetime="2019">May 12, 2019</time>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-3 wow fadeIn" data-wow-delay=".05s">
-              <!-- Post Creative-->
-              <article class="post-creative"><a class="post-creative-image" href="https://findyourman.org/auth/blog" style="background-image: url(images/home-2-10.jpg);"></a>
-                <div class="post-creative-main">
-                  <p class="post-creative-title"><a href="https://findyourman.org/auth/blog">9 Awesome Things Men Can Do to Score Points With Women</a></p>
-                  <time class="post-creative-time" datetime="2019">May 14, 2019</time>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-3 wow fadeIn" data-wow-delay=".075s">
-              <!-- Post Creative-->
-              <article class="post-creative"><a class="post-creative-image" href="https://findyourman.org/auth/blog" style="background-image: url(images/home-2-11.jpg);"></a>
-                <div class="post-creative-main">
-                  <p class="post-creative-title"><a href="https://findyourman.org/auth/blog">Topics You Should Avoid Talking About When Trying To Date</a></p>
-                  <time class="post-creative-time" datetime="2019">June 19, 2019</time>
-                </div>
-              </article>
-            </div>
-          </div>
-        </div>
-      </section>
+     
       <!-- Page Footer-->
       <footer class="section footer-modern">
         <div class="footer-modern-main">
@@ -444,8 +396,8 @@
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
                     
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li><a href="https://findyourman.org/auth/blog">Blog</a></li>
                   </ul>
                 </div>
@@ -477,9 +429,9 @@
                 <h3 class="footer-modern-title">Contacts & Support</h3>
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
-                    <li><a href="/contact.html">Get in Touch</a></li>
-                    <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="/privacy-policy.html">Faqs</a></li>
+                    <li><a href="/contact.php">Get in Touch</a></li>
+                    <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="/privacy-policy.php">Faqs</a></li>
                   
                   </ul>
                 </div>
@@ -490,7 +442,7 @@
         <div class="footer-modern-aside">
           <div class="container">
             <div class="row row-30">
-              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
               </div>
               <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center order-3 order-lg-2">
                 <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Findyourman</span><span>. All rights reserved.&nbsp;</span></p>

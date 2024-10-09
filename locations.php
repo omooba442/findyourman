@@ -53,23 +53,23 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
                   </div>
                 </div>
                 <div class="rd-navbar-nav-wrap">
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Home</a>
                     </li>
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">About Us</a>
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">About Us</a>
                     </li>
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.html">FAQs</a>
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.php">FAQs</a>
                     </li>
                     
                     </li>
                     <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/register">Register</a>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/blog">Blog</a>
-                        <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.html">privacy Policy</a>
+                        <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.php">privacy Policy</a>
                       <!-- RD Navbar Dropdown-->
                       
                     </li>
@@ -118,7 +118,7 @@
                           </div>
                         </article>
                       </div>
-                    </div><a class="button button-default-outline" href="contact-us.html">Get in Touch</a>
+                    </div><a class="button button-default-outline" href="contact-us.php">Get in Touch</a>
                   </div>
                 </div>
               </div>
@@ -242,8 +242,8 @@
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
                     
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li><a href="https://findyourman.org/auth/blog">Blog</a></li>
                   </ul>
                 </div>
@@ -275,9 +275,9 @@
                 <h3 class="footer-modern-title">Contacts & Support</h3>
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
-                    <li><a href="/contact.html">Get in Touch</a></li>
-                    <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="/privacy-policy.html">Faqs</a></li>
+                    <li><a href="/contact.php">Get in Touch</a></li>
+                    <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="/privacy-policy.php">Faqs</a></li>
                   
                   </ul>
                 </div>
@@ -288,7 +288,7 @@
         <div class="footer-modern-aside">
           <div class="container">
             <div class="row row-30">
-              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
               </div>
               <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center order-3 order-lg-2">
                 <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Findyourman</span><span>. All rights reserved.&nbsp;</span></p>

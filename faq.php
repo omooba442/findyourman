@@ -53,24 +53,24 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-inverse-95x40.png" alt="" width="95" height="40" srcset="images/logo-inverse-95x40.png 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/logo-inverse-95x40.png" alt="" width="95" height="40" srcset="images/logo-inverse-95x40.png 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
                   </div>
                 </div>
                
                 <div class="rd-navbar-nav-wrap">
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Home</a>
                       </li>
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">About Us</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">About Us</a>
                       </li>
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.html">FAQs</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.php">FAQs</a>
                       </li>
                       
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/register">Register</a>
                         <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/blog">Blog</a>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.html">privacy Policy</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.php">privacy Policy</a>
                         <!-- RD Navbar Dropdown-->
                         
                       </li>
@@ -105,60 +105,60 @@
             <!-- Bootstrap card-->
             <article class="card card-custom card-corporate">
               <div class="card-header" role="tab">
-                <div class="card-title"><a class="card-link" id="accordion1-card-head-jnbniuvp" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-ubgfuudk" aria-controls="accordion1-card-body-ubgfuudk" aria-expanded="true" role="button">Can I track my order?
+                <div class="card-title"><a class="card-link" id="accordion1-card-head-jnbniuvp" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-ubgfuudk" aria-controls="accordion1-card-body-ubgfuudk" aria-expanded="true" role="button">What is Findmyman?
                     <div class="card-arrow"></div></a></div>
               </div>
               <div class="collapse show" id="accordion1-card-body-ubgfuudk" aria-labelledby="accordion1-card-head-jnbniuvp" data-parent="#accordion1" role="tabpanel">
                 <div class="card-body">
-                  <p>Yes, you can! After placing your order you will receive an order confirmation via email. Each order starts production 15 minutes after your order is placed. Within a few hours of you placing your order, you will receive an expected delivery time. When the order will be ready for delivery, you will receive another email with the tracking number and a link to trace the order online with the courier.</p>
+                  <p>Find Your Man is an online dating platform designed specifically for women seeking meaningful connections with men. We provide a safe and supportive environment for users to find partners based on shared interests, values, and relationship goals.</p>
                 </div>
               </div>
             </article>
             <!-- Bootstrap card-->
             <article class="card card-custom card-corporate">
               <div class="card-header" role="tab">
-                <div class="card-title"><a class="card-link collapsed" id="accordion1-card-head-ccsbsuot" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-wjbfwgur" aria-controls="accordion1-card-body-wjbfwgur" aria-expanded="false" role="button">How can I change something in my order?
+                <div class="card-title"><a class="card-link collapsed" id="accordion1-card-head-ccsbsuot" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-wjbfwgur" aria-controls="accordion1-card-body-wjbfwgur" aria-expanded="false" role="button">How do i create an account?
                     <div class="card-arrow"></div></a></div>
               </div>
               <div class="collapse" id="accordion1-card-body-wjbfwgur" aria-labelledby="accordion1-card-head-ccsbsuot" data-parent="#accordion1" role="tabpanel">
                 <div class="card-body">
-                  <p>If you need to change something in your order, please contact us immediately. We usually process orders within 30 minutes, and once we have processed your order, we will be unable to make any changes. </p>
+                  <p>To create an account, visit our website and click on the "Sign Up" button. Fill in the required information, including your name, email address, and password. Once you've submitted your details, you'll receive a confirmation email to verify your account. </p>
                 </div>
               </div>
             </article>
             <!-- Bootstrap card-->
             <article class="card card-custom card-corporate">
               <div class="card-header" role="tab">
-                <div class="card-title"><a class="card-link collapsed" id="accordion1-card-head-xdaoacwh" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-kioveiys" aria-controls="accordion1-card-body-kioveiys" aria-expanded="false" role="button">How can I pay for my order?
+                <div class="card-title"><a class="card-link collapsed" id="accordion1-card-head-xdaoacwh" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-kioveiys" aria-controls="accordion1-card-body-kioveiys" aria-expanded="false" role="button">Is it Free To Join?
                     <div class="card-arrow"></div></a></div>
               </div>
               <div class="collapse" id="accordion1-card-body-kioveiys" aria-labelledby="accordion1-card-head-xdaoacwh" data-parent="#accordion1" role="tabpanel">
                 <div class="card-body">
-                  <p>We accept Visa, MasterCard, and American Express credit and debit cards for your convenience.</p>
+                  <p> Yes, joining Find Your Man is free! You can create a profile and browse potential matches without any charges. </p>
                 </div>
               </div>
             </article>
             <!-- Bootstrap card-->
             <article class="card card-custom card-corporate">
               <div class="card-header" role="tab">
-                <div class="card-title"><a class="card-link collapsed" id="accordion1-card-head-ungyduew" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-oiibictr" aria-controls="accordion1-card-body-oiibictr" aria-expanded="false" role="button">How long will my order take to be delivered?
+                <div class="card-title"><a class="card-link collapsed" id="accordion1-card-head-ungyduew" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-oiibictr" aria-controls="accordion1-card-body-oiibictr" aria-expanded="false" role="button">How Can find potential matches ?
                     <div class="card-arrow"></div></a></div>
               </div>
               <div class="collapse" id="accordion1-card-body-oiibictr" aria-labelledby="accordion1-card-head-ungyduew" data-parent="#accordion1" role="tabpanel">
                 <div class="card-body">
-                  <p>Delivery times will depend on your location. Once payment is confirmed your order will be packaged. Delivery can be expected within a day. </p>
+                  <p>You can find potential matches by using our advanced search filters based on location, age, interests, and relationship goals. Our algorithm also provides personalized recommendations based on your profile and activity. </p>
                 </div>
               </div>
             </article>
             <!-- Bootstrap card-->
             <article class="card card-custom card-corporate">
               <div class="card-header" role="tab">
-                <div class="card-title"><a class="card-link collapsed" id="accordion1-card-head-nxqhvvwg" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-cwaiaqtw" aria-controls="accordion1-card-body-cwaiaqtw" aria-expanded="false" role="button">Can I return an item?
+                <div class="card-title"><a class="card-link collapsed" id="accordion1-card-head-nxqhvvwg" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-cwaiaqtw" aria-controls="accordion1-card-body-cwaiaqtw" aria-expanded="false" role="button">Can I Use Findyourman On Mobile Devices?
                     <div class="card-arrow"></div></a></div>
               </div>
               <div class="collapse" id="accordion1-card-body-cwaiaqtw" aria-labelledby="accordion1-card-head-nxqhvvwg" data-parent="#accordion1" role="tabpanel">
                 <div class="card-body">
-                  <p>Please contact our administrators for more information on returning products purchased on our website.</p>
+                  <p>es! Our website is mobile-friendly, allowing you to access your account and connect with others from your smartphone or tablet. </p>
                 </div>
               </div>
             </article>
@@ -175,8 +175,8 @@
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
                     
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li><a href="https://findyourman.org/auth/blog">Blog</a></li>
                   </ul>
                 </div>
@@ -208,9 +208,9 @@
                 <h3 class="footer-modern-title">Contacts & Support</h3>
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
-                    <li><a href="/contact.html">Get in Touch</a></li>
-                    <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="/privacy-policy.html">Faqs</a></li>
+                    <li><a href="/contact.php">Get in Touch</a></li>
+                    <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="/privacy-policy.php">Faqs</a></li>
                   
                   </ul>
                 </div>
@@ -221,7 +221,7 @@
         <div class="footer-modern-aside">
           <div class="container">
             <div class="row row-30">
-              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
               </div>
               <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center order-3 order-lg-2">
                 <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Findyourman</span><span>. All rights reserved.&nbsp;</span></p>

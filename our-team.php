@@ -53,19 +53,19 @@
                     <!-- RD Navbar Toggle-->
                     <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                     <!-- RD Navbar Brand-->
-                    <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png"></a>
+                    <div class="rd-navbar-brand"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png"></a>
                     </div>
                   </div>
                   <div class="rd-navbar-nav-wrap">
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Home</a>
                       </li>
                       
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/register">Register</a>
                         <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/blog">Blog</a>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.html">privacy Policy</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.php">privacy Policy</a>
                         <!-- RD Navbar Dropdown-->
                         
                       </li>
@@ -374,7 +374,7 @@
               <h2>Premium Membership</h2>
               <p class="text-white-7">Enjoy the benefits of our dating service’s membership! Use the psychological matching to find the best people and experience other great bonuses.</p>
               <div class="unit cta-unit unit-spacing-md flex-column flex-sm-row align-items-center offset-xl-t-40">
-                <div class="unit-left"><a class="button button-md button-light" href="#">Find Matches</a></div>
+                <div class="unit-left"><a class="button button-md button-light" href="https://findyourman.org/auth/find-matches">Find Matches</a></div>
                 <div class="unit-body"><span class="text-white-7">Free Forever</span></div>
               </div>
             </div>
@@ -440,9 +440,9 @@
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
                    
-                    <li><a href="our-team.html">Our Team</a></li>
-                    <li><a href="testimonials.html">Testimonials</a></li>
-                    <li><a href="grid-blog.html">Blog</a></li>
+                    <li><a href="our-team.php">Our Team</a></li>
+                    <li><a href="testimonials.php">Testimonials</a></li>
+                    <li><a href="grid-blog.php">Blog</a></li>
                   </ul>
                 </div>
               </div>
@@ -486,10 +486,10 @@
         <div class="footer-modern-aside">
           <div class="container">
             <div class="row row-30">
-              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
               </div>
               <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center order-3 order-lg-2">
-                <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>GO</span><span>. All rights reserved.&nbsp;</span><a href="privacy-policy.html">Privacy Policy</a></p>
+                <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>GO</span><span>. All rights reserved.&nbsp;</span><a href="privacy-policy.php">Privacy Policy</a></p>
               </div>
               <div class="col-lg-4 d-flex flex-column align-items-center text-center order-2 order-lg-3"><a class="button btn-sm small button-default-outline wow fadeIn" href="#" data-wow-delay=".07s">Join Now</a></div>
             </div>

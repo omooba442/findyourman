@@ -49,117 +49,46 @@
         <div class="rd-navbar-wrap">
           <nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
             <div class="rd-navbar-main-outer">
-              <div class="rd-navbar-main">
-                <!-- RD Navbar Panel-->
-                <div class="rd-navbar-panel">
-                  <!-- RD Navbar Toggle-->
-                  <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-                  <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-inverse-95x40.png" alt="" width="95" height="40" srcset="images/logo-inverse-95x40.png 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+              <div class="rd-navbar-wrap">
+                <nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+                  <div class="rd-navbar-main-outer">
+                    <div class="rd-navbar-main">
+                      <!-- RD Navbar Panel-->
+                      <div class="rd-navbar-panel">
+                        <!-- RD Navbar Toggle-->
+                        <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                        <!-- RD Navbar Brand-->
+                        <div class="rd-navbar-brand"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png"></a>
+                        </div>
+                      </div>
+                      <div class="rd-navbar-nav-wrap">
+                        <!-- RD Navbar Nav-->
+                        <ul class="rd-navbar-nav">
+                          <li class="rd-nav-item active "><a class="rd-nav-link" href="index.php">Home</a>
+                          </li>
+                          <li class="rd-nav-item active"><a class="rd-nav-link" href="about.php">About Us</a>
+                          </li>
+                          <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.php">FAQs</a>
+                          </li>
+                          
+                          </li>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/register">Register</a>
+                            <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/blog">Blog</a>
+                              <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.php">privacy Policy</a>
+                            <!-- RD Navbar Dropdown-->
+                            
+                          </li>
+                          
+                         
+                          
+                           
+                          </li>
+                        </ul>
+                      </div>
+                     
+                    </div>
                   </div>
-                </div>
-                <div class="rd-navbar-nav-wrap">
-                  <!-- RD Navbar Nav-->
-                  <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Home</a>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.html">About</a>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Community</a>
-                      <!-- RD Navbar Dropdown-->
-                      <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="community-1.html">Community 1</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="community-2.html">Community 2</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="person-page.html">Person Page</a></li>
-                      </ul>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="locations.html">Locations</a>
-                    </li>
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="#">Pages</a>
-
-                      <!-- RD Navbar Megamenu-->
-                      <ul class="rd-menu rd-navbar-megamenu">
-                        <li class="rd-megamenu-item">
-                          <p class="rd-megamenu-title">Elements</p>
-                          <div class="rd-megamenu-block">
-                            <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography.html">Typography</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons.html">Buttons</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms.html">Forms</a></li>
-                            </ul>
-                            <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="icon-lists.html">Icon Lists</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters-and-accordions.html">Counters &amp; Accordions</a></li>
-                            </ul>
-                          </div>
-                        </li>
-                        <li class="rd-megamenu-item">
-                          <p class="rd-megamenu-title">Pages</p>
-                          <div class="rd-megamenu-block">
-                            <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="our-team.html">Our Team</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials.html">Testimonials</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="contact-us.html">Contact Us</a></li>
-                            </ul>
-                            <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">404 Page</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="coming-soon.html">Coming Soon</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacy-policy.html">Privacy policy</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="search-results.html">Search results</a></li>
-                            </ul>
-                          </div>
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="grid-blog.html">Blog</a>
-                      <!-- RD Navbar Dropdown-->
-                      <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="blog-post.html">Blog post</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </div>
-                <div class="rd-navbar-collapse-outer context-light">
-                  <button class="rd-navbar-collapse-toggle" data-multitoggle="#rd-navbar-collapse"><span></span><span></span><span></span></button>
-                  <div class="rd-navbar-collapse" id="rd-navbar-collapse">
-                    <button class="rd-navbar-collapse-close" data-multitoggle="#rd-navbar-collapse"><span class="rd-navbar-collapse-toggle-element active"><span></span></span></button>
-                    <h4 class="font-weight-sbold">Address & Phone</h4>
-                    <h5 class="ls-1">9 Valley St. Brooklyn, NY 11203</h5>
-                    <h5 class="ls-1"><a href="tel:#">1-800-346-6277</a></h5>
-                    <div class="divider divider-small"></div>
-                    <h4 class="font-weight-sbold">Locations</h4>
-                    <!-- Owl Carousel-->
-                    <div class="owl-carousel owl-carousel-tour-minimal" data-items="1" data-dots="true" data-nav="false" data-auto-width="true" data-loop="true" data-margin="0" data-autoplay="false" data-mouse-drag="false">
-                      <div class="owl-item-inner">
-                        <article class="tour-minimal context-dark">
-                          <div class="tour-minimal-inner" style="background-image: url(images/tour-1-258x273.png);">
-                            <div class="tour-minimal-main">
-                              <h4 class="tour-minimal-title"><a href="#">Amsterdam</a></h4>
-                            </div>
-                          </div>
-                        </article>
-                      </div>
-                      <div class="owl-item-inner">
-                        <article class="tour-minimal context-dark">
-                          <div class="tour-minimal-inner" style="background-image: url(images/tour-2-258x273.png);">
-                            <div class="tour-minimal-main">
-                              <h4 class="tour-minimal-title"><a href="#">London</a></h4>
-                            </div>
-                          </div>
-                        </article>
-                      </div>
-                      <div class="owl-item-inner">
-                        <article class="tour-minimal context-dark">
-                          <div class="tour-minimal-inner" style="background-image: url(images/tour-3-258x273.png);">
-                            <div class="tour-minimal-main">
-                              <h4 class="tour-minimal-title"><a href="#">Barcelona</a></h4>
-                            </div>
-                          </div>
-                        </article>
-                      </div>
-                    </div><a class="button button-default-outline" href="contact-us.html">Get in Touch</a>
-                  </div>
-                </div>
+                </nav>
               </div>
             </div>
           </nav>
@@ -169,7 +98,9 @@
             <div class="container">
               <div class="breadcrumbs-custom-main">
                 <h2 class="breadcrumbs-custom-title">Contact Us</h2>
-                <p class="big text-white">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit.  </p>
+                <p class="big text-white">At Find Your Man, we value your experience and want to ensure that your journey to finding love is as smooth and enjoyable as possible. If you have any questions, concerns, or feedback, our dedicated team is here to assist you.
+                 
+                    </p>
               </div>
             </div>
           </div>
@@ -182,25 +113,26 @@
             <div class="col-sm-6 col-lg-4">
               <!-- Box 1-->
               <address class="box-1">
-                <p class="heading-4 box-1-title">United States</p>
-                <p class="box-1-address heading-5">9 Valley St. Brooklyn, NY 11203</p>
-                <p class="box-1-tel heading-3"><a href="tel:#">1-800-346-6277</a></p>
+                <p class="heading-4 box-1-title">Email</p>
+                <p class="box-1-address heading-5">For quick inquiries or detailed questions, please email us at support@findyourman.com. We strive to respond within 24-48 hours.</p>
+
               </address>
             </div>
             <div class="col-sm-6 col-lg-4">
               <!-- Box 1-->
               <address class="box-1">
-                <p class="heading-4 box-1-title">Canada</p>
-                <p class="box-1-address heading-5">500 Kingston Rd Toronto ON M4L 1V3</p>
-                <p class="box-1-tel heading-3"><a href="tel:#">1-780-964-1989</a></p>
+                <p class="heading-4 box-1-title">Feedback And Suggestions</p>
+                <p class="box-1-address heading-5">We love hearing from our users! If you have any feedback, suggestions, or ideas on how we can improve our platform, please let us know. Your insights are invaluable in helping us enhance the Find Your Man experience.</p>
+               
               </address>
             </div>
             <div class="col-sm-6 col-lg-4">
               <!-- Box 1-->
               <address class="box-1">
-                <p class="heading-4 box-1-title">Australia</p>
-                <p class="box-1-address heading-5">60 Marcus Clarke St, Canberra, ACT 2601</p>
-                <p class="box-1-tel heading-3"><a href="tel:#">61-02-6156-0706</a></p>
+                <p class="heading-4 box-1-title">Commitment</p>
+                <p class="box-1-address heading-5">At Find Your Man, we are committed to providing exceptional support to our members. Whether you have a question about your profile, need assistance navigating the site, or want to share your success story, we are here to listen and help.
+                  Thank you for choosing Find Your Man. We look forward to connecting with you!</p>
+                
               </address>
             </div>
           </div>
@@ -260,8 +192,8 @@
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
                     
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li><a href="https://findyourman.org/auth/blog">Blog</a></li>
                   </ul>
                 </div>
@@ -293,9 +225,9 @@
                 <h3 class="footer-modern-title">Contacts & Support</h3>
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
-                    <li><a href="/contact.html">Get in Touch</a></li>
-                    <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="/privacy-policy.html">Faqs</a></li>
+                    <li><a href="/contact.php">Get in Touch</a></li>
+                    <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="/privacy-policy.php">Faqs</a></li>
                   
                   </ul>
                 </div>
@@ -306,7 +238,7 @@
         <div class="footer-modern-aside">
           <div class="container">
             <div class="row row-30">
-              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
               </div>
               <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center order-3 order-lg-2">
                 <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Findyourman</span><span>. All rights reserved.&nbsp;</span></p>

@@ -53,24 +53,24 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/logo-inverse-95x40.png 2x"><img class="brand-logo-light" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png"></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/logo-inverse-95x40.png 2x"><img class="brand-logo-light" src="images/LOGO 1.png" alt="" width="197" height="95" srcset="images/LOGO 1.png"></a>
                   </div>
                   
                 </div>
                 <div class="rd-navbar-nav-wrap">
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Home</a>
                       </li>
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">About Us</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">About Us</a>
                       </li>
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.html">FAQs</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="faq.php">FAQs</a>
                       </li>
                       
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/register">Register</a>
                         <li class="rd-nav-item"><a class="rd-nav-link" href="https://findyourman.org/auth/blog">Blog</a>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.html">privacy Policy</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="/privacy-policy.php">privacy Policy</a>
                         <!-- RD Navbar Dropdown-->
                         
                       </li>
@@ -119,7 +119,7 @@
                           </div>
                         </article>
                       </div>
-                    </div><a class="button button-default-outline" href="contact-us.html">Get in Touch</a>
+                    </div><a class="button button-default-outline" href="contact-us.php">Get in Touch</a>
                   </div>
                 </div>
               </div>
@@ -131,7 +131,7 @@
             <div class="container">
               <div class="breadcrumbs-custom-main">
                 <h2 class="breadcrumbs-custom-title">About</h2>
-                <p class="big text-white">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit.  </p>
+                <p class="big text-white">We love hearing from our members about their success stories! Many women have found meaningful connections through Find Your Man, leading to lasting relationships and friendships. These testimonials inspire us and remind us of the impact we can have on people's lives.</p>
               </div>
             </div>
           </div>
@@ -145,7 +145,7 @@
               <h2 class="text-black block-1">About Us</h2>
               <div class="heading-3 ls-ng-1 offset-xl-t-40 text-gray-600"><span class="d-xl-block">We are here to build emotions, connect people</span><span class="d-xl-block">and create happy stories.</span></div>
               <div class="block-2 mt-20 mt-md-30 mt-lg-40">
-                <p class="text-gray-800 text-sm">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p class="text-black-800 text-sm">Are you ready to embark on a journey to find your man? Join the Find Your Man community today and discover the possibilities that await you. Sign up for free and start connecting with like-minded individuals who are also seeking love and companionship.</p>
               </div><a class="button button-lg button-icon button-icon-left button-primary offset-xl-t-45 wow fadeIn" href="#" data-wow-delay=".05s"><span class="icon mdi mdi-magnify"></span>Find your partner</a>
             </div>
             <div class="col-md-10 col-lg-5 text-lg-right text-center"><img src="images/about-1-457x479.png" alt="" width="457" height="479">
@@ -188,8 +188,8 @@
               <article class="lg-1-item wow fadeIn" data-wow-delay=".075s">
                 <div class="icon lg-1-item-icon mdi mdi-filter"></div>
                 <div class="lg-1-item-main">
-                  <h3 class="lg-1-item-title font-weight-normal"><span class="lg-1-item-counter"></span>Quick Filtering</h3>
-                  <p>Our travel agents are ready to offer extensive support on any tour with traveling guidance & recommendations.</p>
+                  <h3 class="lg-1-item-title font-weight-normal"><span class="lg-1-item-counter"></span>User Friendly Interface</h3>
+                  <p>Navigating online dating shouldn’t be complicated. We allow you to focus on finding your perfect match.</p>
                 </div>
               </article>
             </li>
@@ -202,7 +202,7 @@
           <div class="row">
             <div class="col-12">
               <h2>Successful Love Stories</h2>
-              <p class="offset-xl-t-35">Lobortis scelerisque fermentum dui faucibus in ornare quam viverra orci.</p>
+              <p class="offset-xl-t-35">We love hearing from our members about their success stories! Many women have found meaningful connections through Find Your Man, leading to lasting relationships and friendships.</p>
             </div>
           </div>
           <div class="row row-30 row-md-50 justify-content-center justify-content-lg-start">
@@ -217,9 +217,9 @@
                     <div class="quote-classic-links"><a class="quote-classic-social-link mdi mdi-facebook" href="#"></a></div>
                   </div>
                   <div class="quote-classic-text">
-                    <p>Elementum nisi quis eleifend quam adipiscing. Dictum varius duis at lorem consectetur.</p>
+                    <p>I never thought I'd find someone so compatible online. findyourman made it easy to connect with people who shared my interests. I'm so happy I gave it a try!</p>
                   </div>
-                  <time class="quote-classic-time" datetime="2019">Mar 21, 2019</time>
+                  <time class="quote-classic-time" datetime="2019">Mar 12, 2024</time>
                 </div>
               </blockquote>
             </div>
@@ -229,14 +229,14 @@
                 <div class="quote-classic-inner">
                   <div class="quote-classic-header">
                     <div class="quote-classic-profile"><img class="quote-classic-avatar" src="images/testimonials-2-84x84.jpg" alt="" width="84" height="84">
-                      <cite class="quote-classic-cite heading-3 ls-ng-1">Peter McMillan</cite>
+                      <cite class="quote-classic-cite heading-3 ls-ng-1">Susy McMillan</cite>
                     </div>
                     <div class="quote-classic-links"><a class="quote-classic-social-link mdi mdi-facebook" href="#"></a></div>
                   </div>
                   <div class="quote-classic-text">
-                    <p>Amet commodo nulla facilisi nullam. Pellentesque id nibh tortor id aliquet lectus proin.</p>
+                    <p>he website is so easy to navigate. I had no trouble finding people I was interested in. It's definitely one of the best dating platforms I've used.</p>
                   </div>
-                  <time class="quote-classic-time" datetime="2019">Mar 21, 2019</time>
+                  <time class="quote-classic-time" datetime="2019">Mar 01, 2024</time>
                 </div>
               </blockquote>
             </div>
@@ -251,9 +251,9 @@
                     <div class="quote-classic-links"><a class="quote-classic-social-link mdi mdi-facebook" href="#"></a></div>
                   </div>
                   <div class="quote-classic-text">
-                    <p>Arcu dictum varius duis at consectetur lorem. Purus viverra accumsan in nisl nisi scelerisque.</p>
+                    <p>The advanced search features on findyourman are amazing. I was able to find exactly what I was looking for in a partner.</p>
                   </div>
-                  <time class="quote-classic-time" datetime="2019">Mar 21, 2019</time>
+                  <time class="quote-classic-time" datetime="2019">Mar 11, 2024</time>
                 </div>
               </blockquote>
             </div>
@@ -268,9 +268,9 @@
                     <div class="quote-classic-links"><a class="quote-classic-social-link mdi mdi-facebook" href="#"></a></div>
                   </div>
                   <div class="quote-classic-text">
-                    <p>Laoreet sit amet cursus sit. A scelerisque purus semper eget ut lectus arcu bibendum at varius.</p>
+                    <p>"We met on findyourman and we're now engaged! It's been the best decision we've ever made. Thank you for connecting us."</p>
                   </div>
-                  <time class="quote-classic-time" datetime="2019">Mar 21, 2019</time>
+                  <time class="quote-classic-time" datetime="2019">Mar 21, 2024</time>
                 </div>
               </blockquote>
             </div>
@@ -324,8 +324,8 @@
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
                     
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li><a href="https://findyourman.org/auth/blog">Blog</a></li>
                   </ul>
                 </div>
@@ -357,9 +357,9 @@
                 <h3 class="footer-modern-title">Contacts & Support</h3>
                 <div class="footer-modern-item-block">
                   <ul class="list list-1">
-                    <li><a href="/contact.html">Get in Touch</a></li>
-                    <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="/privacy-policy.html">Faqs</a></li>
+                    <li><a href="/contact.php">Get in Touch</a></li>
+                    <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="/privacy-policy.php">Faqs</a></li>
                   
                   </ul>
                 </div>
@@ -370,7 +370,7 @@
         <div class="footer-modern-aside">
           <div class="container">
             <div class="row row-30">
-              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
+              <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center align-items-center order-1"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/LOGO 1.png"" alt="" width="95" height="40" srcset="images/LOGO 1.png" 2x"><img class="brand-logo-light" src="images/logo-default-107x45.png" alt="" width="107" height="45" srcset="images/logo-default-321x135.png 2x"></a>
               </div>
               <div class="col-lg-4 d-flex flex-column align-items-lg-start justify-content-center order-3 order-lg-2">
                 <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Findyourman</span><span>. All rights reserved.&nbsp;</span></p>

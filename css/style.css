@@ -2011,7 +2011,7 @@ p + .list-marked {
 .lg-1-item {
 	max-width: 250px;
 	margin: 0 auto;
-	color: #353535;
+	color: black;
 }
 
 .lg-1-item-icon {
@@ -5135,7 +5135,7 @@ div.post-info-details > * + * {
 	font-size: 16px;
 	line-height: 1.70833;
 	letter-spacing: .02em;
-	color: #353535;
+	color: white;
 }
 
 .quote-primary-line {
@@ -5964,7 +5964,7 @@ button.quote-light-avatar.active {
 	margin-right: auto;
 	color: #ffffff;
 	text-align: left;
-	background-color: #353535;
+	background-color: white;
 	border-radius: 0;
 	box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.15);
 	font-size: 14px;
@@ -7798,7 +7798,7 @@ button.quote-light-avatar.active {
 
 .community-wrap .tour-3-meta .icon {
 	font-size: 20px;
-	color: #353535;
+	color: white;
 	letter-spacing: -.02em;
 }
 
@@ -8777,7 +8777,7 @@ html .page .text-secondary {
 }
 
 html .page .text-gray-800 {
-	color: #353535;
+	color: white;
 }
 
 html .page .text-gray-500 {
@@ -8789,7 +8789,7 @@ html .page .text-gray-600 {
 }
 
 html .page .text-gray-800 {
-	color: #353535;
+	color: white;
 }
 
 html .page .text-black {
@@ -9799,7 +9799,7 @@ html [class*='section-'].section-bottom-0 {
 * Dark Backgrounds
 */
 .bg-gray-800 {
-	background-color: #353535;
+	background-color: white;
 }
 
 .bg-gray-800:not([style*="background-"]) + .bg-gray-800:not([style*="background-"]) {
@@ -9807,7 +9807,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-color-gray-800 {
-	background: #353535;
+	background: white;
 }
 
 .bg-black {
@@ -11782,16 +11782,16 @@ html.rd-navbar-fixed-linked .rd-navbar-wrap {
 }
 
 .context-dark .rd-navbar-classic.rd-navbar-static .rd-navbar-main-outer::after {
-	background: #353535;
+	background: white;
 }
 
 .context-dark .rd-navbar-classic.rd-navbar-static.rd-navbar--is-clone .rd-navbar-main-outer, .context-dark .rd-navbar-classic.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-main-outer {
-	background: #353535;
+	background: white;
 	border-bottom-color: #222;
 }
 
 .context-dark .rd-navbar-classic.rd-navbar-fixed .rd-navbar-panel {
-	background: #353535;
+	background: white;
 	border-bottom-color: #222;
 }
 
@@ -12375,12 +12375,12 @@ html.rd-navbar-fixed-linked .rd-navbar-wrap {
 }
 
 .context-dark .rd-navbar-modern.rd-navbar-static.rd-navbar--is-stuck {
-	background: #353535;
+	background: white;
 	border-bottom-color: #222;
 }
 
 .context-dark .rd-navbar-modern.rd-navbar-fixed .rd-navbar-panel {
-	background: #353535;
+	background: white;
 	border-bottom-color: #222;
 }
 
